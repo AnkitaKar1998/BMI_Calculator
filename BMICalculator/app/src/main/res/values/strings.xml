@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="health_tips_activity">Health Tips Activity</string>
+</resources>
